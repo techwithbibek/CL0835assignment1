@@ -1,4 +1,4 @@
-# CL0835assignment1
+#Installing web server on Amazon EC2 using Terraform
 
 STEPS:
 
